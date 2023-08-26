@@ -25,4 +25,4 @@ Este projeto é uma calculadora de peso ideal que permite aos usuários calcular
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/GilmarGomes/Programa-WebcCalcular-peso-ideal.git
