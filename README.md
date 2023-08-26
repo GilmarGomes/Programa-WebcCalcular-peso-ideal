@@ -8,6 +8,7 @@ Este projeto é uma calculadora de peso ideal que permite aos usuários calcular
 
 ## Funcionalidades
 
+- Coloque seu nome
 - Insira sua altura em centímetros.
 - Escolha o gênero (masculino ou feminino).
 - Clique no botão "Calcular Peso Ideal".
